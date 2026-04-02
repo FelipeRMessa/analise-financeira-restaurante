@@ -19,3 +19,6 @@ Projeto desenvolvido para prática de análise de dados e aplicação real de co
 
 ## 👨‍💻 Autor
 Felipe Ricardo Messa
+
+## 🔗 Projeto no Google Colab
+https://colab.research.google.com/drive/1b3BFVTGnmbh4nX0NlHBoGGlGFq0iCzSR#scrollTo=4D76LK9QEkAo
